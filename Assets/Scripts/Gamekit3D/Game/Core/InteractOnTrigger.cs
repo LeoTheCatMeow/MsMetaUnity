@@ -12,7 +12,6 @@ namespace Gamekit3D
         public LayerMask layers;
         public UnityEvent OnEnter, OnExit;
         new Collider collider;
-        public InventoryController.InventoryChecker[] inventoryChecks;
 
         void Reset()
         {
@@ -37,10 +36,6 @@ namespace Gamekit3D
         protected virtual void ExecuteOnEnter(Collider other)
         {
             OnEnter.Invoke();
-            for (var i = 0; i < inventoryChecks.Length; i++)
-            {
-                inventoryChecks[i].CheckInventory(other.GetComponentInChildren<InventoryController>());
-            }
         }
 
         void OnTriggerExit(Collider other)
