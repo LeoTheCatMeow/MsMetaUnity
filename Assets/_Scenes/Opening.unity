@@ -122,7 +122,6 @@ GameObject:
   m_Component:
   - component: {fileID: 34937896}
   - component: {fileID: 34937898}
-  - component: {fileID: 34937897}
   m_Layer: 0
   m_Name: shipyard_crates_right_G
   m_TagString: Untagged
@@ -144,19 +143,6 @@ Transform:
   m_Father: {fileID: 1706903406}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &34937897
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 34937895}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &34937898
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -215,7 +201,6 @@ GameObject:
   m_Component:
   - component: {fileID: 49798815}
   - component: {fileID: 49798817}
-  - component: {fileID: 49798816}
   m_Layer: 0
   m_Name: shipyard_factory_left_F
   m_TagString: Untagged
@@ -237,19 +222,6 @@ Transform:
   m_Father: {fileID: 1706903406}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &49798816
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 49798814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &49798817
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -403,7 +375,6 @@ GameObject:
   m_Component:
   - component: {fileID: 152339291}
   - component: {fileID: 152339290}
-  - component: {fileID: 152339289}
   m_Layer: 0
   m_Name: shipyard_crane_complex_1_flipped
   m_TagString: Untagged
@@ -411,19 +382,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &152339289
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152339288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &152339290
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -496,7 +454,6 @@ GameObject:
   m_Component:
   - component: {fileID: 248290526}
   - component: {fileID: 248290527}
-  - component: {fileID: 248290528}
   m_Layer: 0
   m_Name: opening_skyline
   m_TagString: Untagged
@@ -566,19 +523,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &248290528
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 248290525}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &281846727
 GameObject:
   m_ObjectHideFlags: 0
@@ -589,7 +533,6 @@ GameObject:
   m_Component:
   - component: {fileID: 281846728}
   - component: {fileID: 281846730}
-  - component: {fileID: 281846729}
   m_Layer: 0
   m_Name: Sky (1)
   m_TagString: Untagged
@@ -611,19 +554,6 @@ Transform:
   m_Father: {fileID: 631905531}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &281846729
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 281846727}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &281846730
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -682,7 +612,6 @@ GameObject:
   m_Component:
   - component: {fileID: 328557603}
   - component: {fileID: 328557605}
-  - component: {fileID: 328557604}
   m_Layer: 0
   m_Name: opening_skyline (1)
   m_TagString: Untagged
@@ -704,19 +633,6 @@ Transform:
   m_Father: {fileID: 1658220921}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &328557604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 328557602}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &328557605
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1223,7 +1139,6 @@ GameObject:
   m_Component:
   - component: {fileID: 504827693}
   - component: {fileID: 504827692}
-  - component: {fileID: 504827691}
   m_Layer: 0
   m_Name: shipyard_crane_long_1
   m_TagString: Untagged
@@ -1231,19 +1146,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &504827691
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 504827690}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &504827692
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1591,7 +1493,6 @@ GameObject:
   m_Component:
   - component: {fileID: 631905531}
   - component: {fileID: 631905530}
-  - component: {fileID: 631905532}
   m_Layer: 0
   m_Name: Sky
   m_TagString: Untagged
@@ -1663,19 +1564,6 @@ Transform:
   m_Father: {fileID: 1658220921}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &631905532
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 631905529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!114 &632934372 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3730109598687486734, guid: f3ec0a850b9f7cb4285e5e6de85ebf41,
@@ -1698,7 +1586,6 @@ GameObject:
   m_Component:
   - component: {fileID: 661326448}
   - component: {fileID: 661326450}
-  - component: {fileID: 661326449}
   m_Layer: 0
   m_Name: shipyard_crates_right_G (1)
   m_TagString: Untagged
@@ -1720,19 +1607,6 @@ Transform:
   m_Father: {fileID: 1706903406}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &661326449
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 661326447}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &661326450
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1791,7 +1665,6 @@ GameObject:
   m_Component:
   - component: {fileID: 690888948}
   - component: {fileID: 690888950}
-  - component: {fileID: 690888949}
   m_Layer: 0
   m_Name: shipyard_waves_E (3)
   m_TagString: Untagged
@@ -1813,19 +1686,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &690888949
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 690888947}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &690888950
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1884,7 +1744,6 @@ GameObject:
   m_Component:
   - component: {fileID: 748961395}
   - component: {fileID: 748961394}
-  - component: {fileID: 748961396}
   m_Layer: 0
   m_Name: shipyard_waves_E
   m_TagString: Untagged
@@ -1954,19 +1813,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &748961396
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 748961393}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &750759527
 GameObject:
   m_ObjectHideFlags: 0
@@ -2098,7 +1944,6 @@ GameObject:
   m_Component:
   - component: {fileID: 968171277}
   - component: {fileID: 968171279}
-  - component: {fileID: 968171278}
   m_Layer: 0
   m_Name: shipyard_waves_E (8)
   m_TagString: Untagged
@@ -2120,19 +1965,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &968171278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 968171276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &968171279
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2362,7 +2194,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1027533108}
   - component: {fileID: 1027533110}
-  - component: {fileID: 1027533109}
   m_Layer: 0
   m_Name: shipyard_ship_2
   m_TagString: Untagged
@@ -2384,19 +2215,6 @@ Transform:
   m_Father: {fileID: 1706903406}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1027533109
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1027533107}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &1027533110
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2455,7 +2273,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1050703897}
   - component: {fileID: 1050703899}
-  - component: {fileID: 1050703898}
   m_Layer: 0
   m_Name: Sky (2)
   m_TagString: Untagged
@@ -2477,19 +2294,6 @@ Transform:
   m_Father: {fileID: 631905531}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1050703898
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1050703896}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &1050703899
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3051,7 +2855,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1371928419}
   - component: {fileID: 1371928418}
-  - component: {fileID: 1371928420}
   m_Layer: 0
   m_Name: shipyard_waves_E (2)
   m_TagString: Untagged
@@ -3121,19 +2924,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1371928420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1371928417}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &1403701643
 GameObject:
   m_ObjectHideFlags: 0
@@ -3144,7 +2934,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1403701645}
   - component: {fileID: 1403701644}
-  - component: {fileID: 1403701646}
   m_Layer: 0
   m_Name: shipyard_waves_E (1)
   m_TagString: Untagged
@@ -3214,19 +3003,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1403701646
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1403701643}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &1502230436
 GameObject:
   m_ObjectHideFlags: 0
@@ -3469,7 +3245,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1620057303}
   - component: {fileID: 1620057304}
-  - component: {fileID: 1620057305}
   m_Layer: 0
   m_Name: opening_ship
   m_TagString: Untagged
@@ -3539,19 +3314,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1620057305
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1620057302}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &1651449702
 GameObject:
   m_ObjectHideFlags: 0
@@ -4016,7 +3778,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1814174757}
   - component: {fileID: 1814174758}
-  - component: {fileID: 1814174759}
   m_Layer: 0
   m_Name: opening_deck
   m_TagString: Untagged
@@ -4086,19 +3847,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1814174759
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1814174756}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!114 &1876678276 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3730109597720574574, guid: f3ec0a850b9f7cb4285e5e6de85ebf41,
@@ -4211,7 +3959,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2022700998}
   - component: {fileID: 2022700999}
-  - component: {fileID: 2022701000}
   m_Layer: 0
   m_Name: shipyard_waves_E (5)
   m_TagString: Untagged
@@ -4281,19 +4028,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2022701000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2022700997}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1 &2028322969
 GameObject:
   m_ObjectHideFlags: 0
@@ -4507,7 +4241,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2088450931}
   - component: {fileID: 2088450933}
-  - component: {fileID: 2088450932}
   m_Layer: 0
   m_Name: shipyard_waves_E (7)
   m_TagString: Untagged
@@ -4529,19 +4262,6 @@ Transform:
   m_Father: {fileID: 2028322970}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2088450932
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2088450930}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!212 &2088450933
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4600,7 +4320,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2107780081}
   - component: {fileID: 2107780082}
-  - component: {fileID: 2107780083}
   m_Layer: 0
   m_Name: shipyard_waves_E (6)
   m_TagString: Untagged
@@ -4670,19 +4389,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2107780083
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2107780080}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516d1c0b46ab9504d8c1bca56cd23a66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  additionalPriority: 0
 --- !u!1001 &361078370695855652
 PrefabInstance:
   m_ObjectHideFlags: 0
