@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 24459348e889acb479eb67fea481a92b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CCBlahBlahBlah
+  fontNames:
+  - CCBlahBlahBlah
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 117f07804892a1a40be5cf4132ebf95c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

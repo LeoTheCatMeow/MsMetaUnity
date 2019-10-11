@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bda6eaa8c39d51b4b9fe5265d2414b86
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DisposableDigi BB
+  fontNames:
+  - DisposableDigi BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1c392e2944aff844b39ce04fb78bb5c, type: 3}
+  - {fileID: 12800000, guid: 63a6c2576626e6f49a8e64e977a52a17, type: 3}
+  - {fileID: 12800000, guid: 35ca9909f72a8c54c98c3e082d452ec1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

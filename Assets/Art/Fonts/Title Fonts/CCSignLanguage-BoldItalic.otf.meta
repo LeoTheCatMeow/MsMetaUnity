@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2cb64179d7cc8d14b83593fb617dae33
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CCSignLanguage
+  fontNames:
+  - CCSignLanguage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 121426df80707254b879e071da0bd206, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
